@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maiconwpassos&show_icons=true&locale=en" alt="maiconwpassos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiconwpassos&" alt="maiconwpassos" /></p>
+
